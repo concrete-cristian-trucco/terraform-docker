@@ -6,7 +6,7 @@
 
 * http://play-with-docker.com/
 
-- Obs: Esse será o ambiente que utilizares para o lab necessário ter uma conta no Github ou Dockerhub.
+- Obs: Esse será o ambiente que utilizaremos para o lab (Terraform) necessário ter uma conta no Github ou Dockerhub para logar no PWD.
 
 ### Instalando o terraform no Play With Docker
 - Rodar sequência de comandos a seguir no terminal do PWD.
